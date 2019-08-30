@@ -1,2 +1,2 @@
-# Megharshetty
+# EDA
 Still learning!!
